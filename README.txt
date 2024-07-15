@@ -1,1 +1,1 @@
-The Library Management System is user-friendly Java application built with Spring Boot, Thymeleaf, and Bootstrap. This system helps streamline the management of a library's catalog by allowing easy addition of authors, publishers, and books, as well as efficient search functionality.
+The Library Management System is user-friendly Java application built with Spring Boot, Thymeleaf and Bootstrap. This system helps streamline the management of a library's catalog by allowing easy addition of authors, publishers, and books, as well as efficient search functionality.
